@@ -1,0 +1,64 @@
+_repo: Sons-and-Lovers_217
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Lawrence, David Herbert
+    - Davison, Lawrence H. (Lawrence Herbert)
+    - Lawrence, D.H.
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+description: "Sons and Lovers is a 1913 novel by the English writer D. H. Lawrence.\
+  \ The Modern Library placed it ninth on their list of the 100 best novels of the\
+  \ 20th century. While the novel initially incited a lukewarm critical reception,\
+  \ along with allegations of obscenity, it is today regarded as a masterpiece by\
+  \ many critics and is often regarded as Lawrence's finest achievement.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Best Books Ever Listings
+gutenberg_issued: '2006-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '217'
+  wikidata: Q80771
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Working class families -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- GITenberg
+title: Sons and Lovers
+url: http://www.gutenberg.org/ebooks/217
+wikipedia:
+- https://fi.wikipedia.org/wiki/Poikia_ja_rakastajia
+- https://fr.wikipedia.org/wiki/Amants_et_Fils
+- https://sh.wikipedia.org/wiki/Sons_and_Lovers
+- https://nl.wikipedia.org/wiki/Zonen_en_minnaars
+- https://pt.wikipedia.org/wiki/Filhos_e_Amantes_(livro)
+- https://pl.wikipedia.org/wiki/Synowie_i_kochankowie
+- https://hy.wikipedia.org/wiki/%D5%88%D6%80%D5%A4%D5%AB%D5%B6%D5%A5%D6%80_%D6%87_%D5%BD%D5%AB%D6%80%D5%A5%D5%AF%D5%A1%D5%B6%D5%B6%D5%A5%D6%80_(%D5%BE%D5%A5%D5%BA)
+- https://fa.wikipedia.org/wiki/%D9%BE%D8%B3%D8%B1%D8%A7%D9%86_%D9%88_%D8%B9%D8%B4%D8%A7%D9%82
+- https://de.wikipedia.org/wiki/S%C3%B6hne_und_Liebhaber_(Roman)
+- https://tr.wikipedia.org/wiki/O%C4%9Fullar_ve_Sevgililer
+- https://es.wikipedia.org/wiki/Hijos_y_amantes
+- https://en.wikipedia.org/wiki/Sons_and_Lovers
+- https://it.wikipedia.org/wiki/Figli_ed_amanti
+- https://th.wikipedia.org/wiki/%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81
+- https://hr.wikipedia.org/wiki/Sinovi_i_ljubavnici
+- https://ru.wikipedia.org/wiki/%D0%A1%D1%8B%D0%BD%D0%BE%D0%B2%D1%8C%D1%8F_%D0%B8_%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8
+- https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8_%E0%A6%8F%E0%A6%A8%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8
+- https://zh.wikipedia.org/wiki/%E5%85%92%E5%AD%90%E8%88%87%E6%83%85%E4%BA%BA
+- https://ko.wikipedia.org/wiki/%EC%95%84%EB%93%A4%EA%B3%BC_%EC%97%B0%EC%9D%B8
+- https://ca.wikipedia.org/wiki/Fills_i_amants
